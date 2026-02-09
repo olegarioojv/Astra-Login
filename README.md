@@ -1,10 +1,10 @@
-# Vento - Login Page
+# Astra - Login Page
 
 Um projeto de autenticação moderno desenvolvido em React com páginas de login e cadastro responsivas.
 
 ## 📋 Sobre o Projeto
 
-O Vento é uma aplicação web que oferece um sistema de login e registro de usuários. O projeto foi construído com React, utilizando React Router para navegação entre páginas e React Icons para elementos visuais. A interface é estilizada com CSS Modules, garantindo estilos isolados e reutilizáveis.
+O Astra é uma aplicação web que oferece um sistema de login e registro de usuários. O projeto foi construído com React, utilizando React Router para navegação entre páginas e React Icons para elementos visuais. A interface é estilizada com CSS Modules, garantindo estilos isolados e reutilizáveis.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -50,7 +50,7 @@ vento/
 1. Clone o repositório ou acesse a pasta do projeto:
 
 ```bash
-cd vento
+cd 
 ```
 
 2. Instale as dependências:
@@ -78,11 +78,13 @@ A aplicação abrirá em `http://localhost:3000`
 
 ### Tela de Login
 
-![Tela de Login](insira_a_url_ou_caminho_da_imagem_aqui)
+<img width="501" height="432" alt="image" src="https://github.com/user-attachments/assets/863679c0-d5b3-4374-9570-a1ad82c5b50c" />
+
 
 ### Tela de Cadastro
 
-![Tela de Cadastro](insira_a_url_ou_caminho_da_imagem_aqui)
+<img width="392" height="537" alt="image" src="https://github.com/user-attachments/assets/3bf21092-543d-4c32-89eb-9038d71cdfc4" />
+
 
 ## 🔗 Rotas da Aplicação
 
@@ -107,7 +109,3 @@ Desenvolvido como projeto de autenticação web.
 
 ---
 
-**Nota:** Para adicionar as imagens das telas, substitua os links nos campos de imagem acima por:
-
-- URLs externas (ex: `https://example.com/login.png`)
-- Caminhos relativos para imagens na pasta (ex: `./src/img/login-screenshot.png`)
